@@ -40,7 +40,7 @@ namespace ReadLocalDirectory
                 Console.WriteLine($"Вiдстеження нових файлiв у: {path3}");
             }
 
-            Console.WriteLine("Натисніть Enter для виходу...");
+            Console.WriteLine("Натиснiть Enter для виходу...");
             Console.ReadLine();
         }
 
